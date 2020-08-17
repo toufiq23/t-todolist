@@ -1,0 +1,13 @@
+{
+  "name": "t-todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js_todolist.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "author": "M Toufiq ELAHI"
+}
