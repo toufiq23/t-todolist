@@ -76,7 +76,7 @@ function filterTodo(e) {
 				el.style.display = 'flex';
 				break;
 			case "completed":
-				if(el.classList.contains("completed")){
+				if(el.classList.contains('completed')){
 					el.style.display = 'flex';
 				} else {
 					el.style.display = 'none';
